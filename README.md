@@ -4,6 +4,8 @@ Welcome to my personal portfolio repository.
 
 This portfolio showcases my skills, projects, experience, education, and certifications as a Software Engineering graduate.
 
+[Visit My Portfolio](https://muneeraalmajed.github.io/Portfolio/)
+
 ## About Me
 
 Hi, I'm Muneera Almajed, a Software Engineering graduate from the University of Bahrain.
