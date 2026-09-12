@@ -85,7 +85,7 @@ During my internship, I worked on:
 
 - GitHub: [MuneeraAlmajed](https://github.com/MuneeraAlmajed)
 - LinkedIn: [Muneera Almajed](https://www.linkedin.com/in/muneera-almajed-b12001365/)
-- Email: muneeraalmajed00@gmail.com
+- Email:almajedmuneera@gmail.com
 
 ---
 
